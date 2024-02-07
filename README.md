@@ -15,7 +15,7 @@ You can visit my personal portal [here](https://adityasamant-learnings.com).
 ## My Interests
 I love to play a part as a Kubernetes developer advocate. I spend a good amount of time on forums related to Kubernetes trying to resolve issues that users report.
 
-I'm currently invested in improving my skills in Spring & Spring Boot & Istio.
+I'm currently invested in improving my skills in Spring Boot & Istio.
 As an effort towards it, I'm building my own Spring Boot projects and deploying them on my personal Istio playground.
 
 Technologies I am passionate about include Kubernetes, Helm, Service Mesh (mainly Istio), AWS, Java, Spring, Spring Boot.
