@@ -10,7 +10,7 @@ My background encompasses not only technical proficiency but also a strong track
 
 I [actively contribute](https://adityasamant-learnings.com/blog/1/kubernetes/kubernetes-contributions.html) to the [documentation](https://github.com/kubernetes/website) for Kubernetes.
 
-You can visit my personal portal [here](https://adityasamant.dev).
+You can visit my personal portal [here](https://aditya-samant.gitlab.io/website).
 
 ## My Interests
 I love to play a part as a Kubernetes developer advocate. I spend a good amount of time on forums related to Kubernetes trying to resolve issues that users report.
