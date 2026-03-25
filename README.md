@@ -8,8 +8,6 @@ cloud-native technologies, with a particular emphasis on those revolving around 
 
 My background encompasses not only technical proficiency but also a strong track record in managerial roles. I am deeply committed to continuous learning and constantly honing my skills.
 
-I [actively contribute](https://adityasamant-learnings.com/blog/1/kubernetes/kubernetes-contributions.html) to the [documentation](https://github.com/kubernetes/website) for Kubernetes.
-
 
 ## My Interests
 I love to play a part as a Kubernetes developer advocate. I spend a good amount of time on forums related to Kubernetes trying to resolve issues that users report.
