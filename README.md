@@ -24,7 +24,7 @@ adityasamant.learnings@gmail.com
 
 
 ## Acclaimed Badges
-Kubestronaut, 5 x Kubernetes (KCNA, KCSA, CKAD, CKA, CKS), AWS (CLF-C02, SAA-C03)  
+5 x Kubernetes (KCNA, KCSA, CKAD, CKA, CKS), AWS (CLF-C02, SAA-C03)  
 View my profile on [Credly](https://www.credly.com/users/adityasamant/badges).
 
 
